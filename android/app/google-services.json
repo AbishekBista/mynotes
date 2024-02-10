@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474805372700",
+    "project_id": "mynotes-abishekbista-project",
+    "storage_bucket": "mynotes-abishekbista-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474805372700:android:58b8cc3faa919e5f305cd9",
+        "android_client_info": {
+          "package_name": "com.abishekbista.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDddfedJXu9_th5UKCPL7QbzuBLLGruX2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
